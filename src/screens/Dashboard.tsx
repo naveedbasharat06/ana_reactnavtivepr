@@ -19,7 +19,7 @@ import {
   Collectibles2,
   Utilities,
 } from "../components/icons";
-import MarketPlaes from "../components/icons/MarketPlaes";
+import MarketPlaes from "../components/icons/Marketplaes";
 import ExperienceItem from "../components/ExperienceItem";
 import CategoryItem from "../components/CategoryItem";
 

@@ -10,7 +10,7 @@ export { default as Globe } from "./Globe";
 export { default as LeftArrow } from "./LeftArrow";
 export { default as Leftsider } from "./LeftSider";
 export { default as LinkTo } from "./LinkTo";
-export { default as Marketplaes } from "./MarketPlaes";
+export { default as Marketplaes } from "./Marketplaes";
 export { default as Notification } from "./Notification";
 export { default as Persons } from "./Persons";
 export { default as SearchIcon } from "./SearchIcon";
